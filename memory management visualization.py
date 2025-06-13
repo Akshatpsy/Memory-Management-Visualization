@@ -206,3 +206,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = MemorySimulator(root)
     root.mainloop()
+    sdlhsd hjz X lhjdivu ax kjadiuanicunac zx jaiudnciaunciuav  adicnaidunaiudvnmavijadvuanviuanva xvkma x
